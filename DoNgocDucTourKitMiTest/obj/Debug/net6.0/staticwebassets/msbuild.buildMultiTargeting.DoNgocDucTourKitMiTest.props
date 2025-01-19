@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DoNgocDucTourKitMiTest.props" />
+</Project>
